@@ -19,6 +19,9 @@ public class Holamundo {
         System.out.print("hola mundo");
         System.out.print(".......");
         
+        System.out.print("Hola,mon");
+        System.out.print("---------------");
+        
     }
     
 }
